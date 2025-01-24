@@ -1,0 +1,29 @@
+task1
+make a func name count
+given integer link me kitni dafa exist karta hia
+
+task2
+create 2 linked lists l1,l2
+l1 me 12 numbers input leke link bana dena hai
+func average
+l1.avg(l2)  // l2 is still empty
+4 numbers ka average loge and l2 ke first node me add krwa do
+isi trh 4 4 krke total l2 ke
+
+
+function me 2 reference variabla bana lo temp, n
+temp 4 tk iterate karega and average ko add krega
+n chaiye bcz jab temp 4 se add hojaega to n = n.next hojaega
+ke l2 me first agaya.
+
+temp=n
+
+mtlb total 
+
+
+for i<12
+cout enter number
+cin >> n
+l1.add(n)
+}
+l1.avg(l2)
